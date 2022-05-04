@@ -1,0 +1,11 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+.env
+.vscode/
+node_modules/
+package.json
+package-lock.json
